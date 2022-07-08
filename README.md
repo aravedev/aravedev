@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aravedev
 - 👀 I’m interested in movies, travels and pothography.
-- 🌱 I’m currently learning JS, C# , HTML, CSS
+- 🌱 I’m currently learning JS, C# , HTML, CSS, React, Python
 - 💞️ I’m looking to collaborate on webapp projects
 - 📫 How to reach me dravedev@gmail.com
 
